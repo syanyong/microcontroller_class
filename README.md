@@ -2,6 +2,11 @@
 
 
 ## Week 03
+
+Using 74HC595
+
+## Arduino Pin
+
 Data Pin = PD5
 
 Shift Register Clock Pin = PD6
